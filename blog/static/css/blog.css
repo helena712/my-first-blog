@@ -1,0 +1,6 @@
+* { color: #cacaca;}
+body { padding: 30px;}
+h1 a { color : #3ea1f7; text-decoration: none; font-family: 'Lobster';}
+#header { padding: 20px; background: #3ea1f7;}
+#header h1 a { color: #fff;}
+.post { margin: 20px;}
